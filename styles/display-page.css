@@ -1,0 +1,46 @@
+main {
+	font-size: 0;
+}
+
+.container {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;	
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+
+}
+
+.half {
+	width: 50%;
+	height: 100px;
+}
+
+.green {
+	background: green;
+}
+
+.blue {
+	background: blue;
+}
+
+.third {
+	width: 33.33%;
+	height: 150px;
+}
+
+.grey {
+	background: grey;
+}
+
+.black {
+	background: black;
+}
+
+.gold {
+	background: gold;
+}
